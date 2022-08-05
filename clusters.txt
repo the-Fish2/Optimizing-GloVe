@@ -1,0 +1,647 @@
+1000
+[0]
+</s> 
+[1, 117, 11, 70, 135, 12, 586, 28]
+in where the In during at outside this 
+[2, 331, 1, 192, 911, 482]
+for give in For giving given 
+[3, 15, 13, 905, 713, 88, 58, 92]
+that it not actually however if do did 
+[4, 10, 986, 638, 19, 129, 872, 109]
+is was remains makes are 're remain make 
+[5, 312, 104, 11, 108, 1, 119, 49]
+on On off the through in down out 
+[6, 293, 464, 381, 399, 528]
+## 5 8 6 7 9 
+[7, 105, 176, 73, 51, 499]
+The This That A It However 
+[8, 460, 171, 1, 35, 118, 120]
+with having between in had while being 
+[9, 115, 162, 264, 478, 717, 291, 499]
+said says told added saying According according However 
+[14, 112, 232, 136, 85, 33, 530, 84]
+as well As such so but While But 
+[16, 120, 19, 21, 130, 42, 460, 37]
+be being are have should been having were 
+[17, 1, 55, 117, 108, 586]
+from in after where through outside 
+[18, 120, 16, 10, 149, 8, 460]
+by being be was By with having 
+[20, 236, 126, 170, 38, 609, 856, 164]
+I 'm my me we 'd My us 
+[22, 57, 93, 26, 74, 806, 218, 170]
+he He him his she himself She me 
+[23, 50, 47, 130, 314, 336, 75]
+will can would should 'll must could 
+[24, 35, 577, 42, 21, 311]
+has had recently been have already 
+[25, 612, 709, 606, 596, 782]
+#### September October January December February 
+[27, 741, 197, 28, 11, 73]
+an An another this the A 
+[29, 799, 101, 122, 50, 43, 673, 86]
+or either any your can you anything no 
+[30, 32, 909, 82, 71, 44, 38]
+their they themselves them our its we 
+[31, 657, 533, 57, 53, 22, 553, 813]
+who whose young He also he His age 
+[34, 81, 225, 777, 156, 98, 214]
+$ million ###,### cents #.## #.# billion 
+[36, 212, 116, 245, 77, 715]
+year month week months years summer 
+[39, 373, 60, 978, 903, 106, 45, 89]
+more less than More rather most one only 
+[40, 148, 6, 174, 293, 98]
+### #,### ## ##,### 5 #.# 
+[41, 119, 49, 104, 187, 309]
+up down out off around away 
+[46, 76, 39, 187, 139, 63, 230, 85]
+about just more around how over really so 
+[48, 7, 105, 3, 176, 51]
+which The This that That It 
+[52, 166, 133, 890, 427, 838]
+all these those everyone All everything 
+[54, 80, 134, 161, 222, 375]
+two three four five six seven 
+[56, 110, 194, 425, 64, 323]
+first second third fourth last final 
+[59, 113, 255, 461, 61, 360, 116]
+time day days period when times week 
+[62, 128, 38, 228, 431, 167, 43, 169]
+We They we You So If you And 
+[65, 403, 702, 147, 426, 780, 352, 386]
+new current latest next change additional future recent 
+[66, 133, 166, 52, 488, 143]
+other those these all others including 
+[67, 74, 26, 218, 126, 852, 553, 57]
+her she his She my mother His He 
+[68, 971, 488, 727, 270, 571, 133, 809]
+people Americans others residents children person those kids 
+[69, 108, 49, 95, 145, 309, 119, 104]
+into through out back then away down off 
+[72, 185, 86, 227, 125, 38, 622, 101]
+there There no here going we No any 
+[78, 131, 278, 235, 307, 133]
+some many few lot several those 
+[79, 409, 259, 882, 754, 802, 508, 928]
+U.S. United_States American British foreign European America UK 
+[83, 139, 470, 347, 540, 838, 431, 176]
+what how What something why everything So That 
+[87, 230, 626, 153, 76, 58]
+like really kind think just do 
+[90, 146, 551, 98, 206, 81]
+percent % per_cent #.# ##.# million 
+[91, 421, 193, 152, 216, 331]
+get getting got go come give 
+[94, 239, 172, 624, 977, 520]
+game games play match tournament playing 
+[96, 33, 85, 485, 13, 88, 459, 253]
+because but so due not if though too 
+[97, 151, 682, 311, 695, 76, 169, 431]
+now still Now already currently just And So 
+[99, 55, 334, 61, 296, 145]
+before after later when until then 
+[100, 823, 285, 453, 160, 313, 765]
+company firm companies Company business industry businesses 
+[102, 514, 814, 419, 298, 94, 690]
+team teams league coach players game club 
+[103, 747, 821, 619, 546, 599, 202]
+against beat fight ahead victory defense win 
+[107, 321, 109, 638, 256, 573, 297, 841]
+made making make makes came gave went brought 
+[111, 769, 268, 906, 448, 603]
+state district State county federal nation 
+[114, 655, 715, 239, 94, 814, 116]
+season weekend summer games game league week 
+[121, 804, 448, 837, 892, 111, 824, 659]
+government administration federal Congress authorities state Senate House 
+[123, 545, 260, 463, 546, 202, 182]
+#-# ##-# ##-## scored victory win points 
+[124, 541, 942, 244, 95, 309]
+home house homes family back away 
+[127, 267, 706, 254, 201, 465]
+good great bad better best strong 
+[132, 139, 493, 337, 838, 125, 83, 540]
+way how thing things everything going what why 
+[137, 327, 75, 130, 50, 23, 47, 336]
+may might could should can will would must 
+[138, 891, 230, 85, 253, 755, 153, 76]
+very pretty really so too especially think just 
+[140, 25, 42, 24, 64, 518, 612, 709]
+since #### been has last ever September October 
+[141, 345, 704, 372, 449, 500]
+work working worked job done doing 
+[142, 452, 263, 920, 433, 331, 911, 573]
+take taking took takes taken give giving gave 
+[144, 502, 503, 686, 894, 416]
+high low higher lower above level 
+[150, 286, 353, 235, 155, 905, 738, 78]
+much little far lot even actually bit some 
+[154, 831, 913, 852, 251, 533]
+old son father mother man young 
+[157, 198, 603, 568, 409, 508]
+world country nation global United_States America 
+[158, 329, 177, 153, 888, 359, 379]
+see look know think tell find looking 
+[159, 480, 177, 888, 153, 478]
+say believe know tell think saying 
+[163, 405, 474, 238, 894, 5, 63, 89]
+under within behind put above on over only 
+[165, 200, 234, 304, 293, 381]
+1 2 3 4 5 6 
+[168, 196, 97, 76, 125, 58, 785, 151]
+right left now just going do leave still 
+[173, 771, 627, 604, 770, 989, 940, 469]
+help helped try needed allow improve tried trying 
+[175, 650, 313, 938, 435, 422]
+market markets industry sector prices price 
+[178, 628, 284, 296, 283, 923, 994, 443]
+end ended start until point complete begin started 
+[179, 927, 688, 226, 224, 149, 847]
+AP • News Wednesday Thursday By Do 
+[180, 585, 951, 487, 131, 112, 307, 78]
+long short longer term many well several some 
+[181, 440, 985, 315, 654, 303, 288, 926]
+information data evidence call access news case calls 
+[183, 92, 58, 13, 757, 47]
+does did do not wants would 
+[184, 54, 52, 66, 307, 131, 80, 134]
+both two all other several many three four 
+[186, 625, 876, 668, 871, 610, 592, 230]
+part role whole involved step result position really 
+[188, 483, 902, 892, 849, 776, 247, 826]
+police Police officers authorities arrested officer officials charged 
+[189, 58, 583, 199, 50, 757, 604, 75]
+want do wanted need can wants needed could 
+[190, 21, 609, 38, 20, 292]
+'ve have 'd we I never 
+[191, 823, 100, 414]
+based firm company Inc. 
+[195, 699, 996, 317, 958, 930]
+school schools School students college student 
+[203, 242, 425, 658, 946, 206, 194, 110]
+quarter half fourth net earnings ##.# third second 
+[204, 527, 233, 654, 380, 770, 851, 868]
+use using used access provide allow provides provided 
+[205, 616, 224, 226, 217, 215]
+today yesterday Thursday Wednesday Monday Tuesday 
+[207, 873, 397, 672, 274, 223]
+same similar different compared every each 
+[208, 679, 121, 580, 290, 413, 804, 448]
+public private government general local national administration federal 
+[209, 623, 587, 817, 152, 284, 216, 125]
+run runs running drive go start come going 
+[210, 224, 217, 226, 215, 252]
+Friday Thursday Monday Wednesday Tuesday Saturday 
+[211, 238, 843, 798, 908, 322, 634, 841]
+set put break opening scheduled held bring brought 
+[213, 579, 201, 457, 110, 194, 127, 254]
+top No. best leading second third good better 
+[219, 644, 769, 906, 355, 727]
+city town district county City residents 
+[220, 117, 532, 592, 59, 1, 586]
+place where round position time in outside 
+[221, 252, 565, 281, 655, 210]
+night Saturday morning Sunday weekend Friday 
+[229, 756, 910, 708, 956, 102, 886, 429]
+group groups organization Group committee team International board 
+[231, 359, 784, 343, 468, 653, 807, 261]
+found find showed reported seen saw shows show 
+[237, 918, 812, 34, 378, 907, 81, 225]
+money funds cash $ pay amount million ###,### 
+[240, 173, 380, 269, 654, 918, 771, 627]
+support help provide services access funds helped try 
+[241, 716, 273, 326, 455, 763, 921, 383]
+program programs system plan project efforts systems plans 
+[243, 613, 489, 637, 343, 440]
+report reports statement study reported data 
+[246, 131, 907, 307, 531, 711]
+number many amount several total list 
+[248, 236, 275, 20, 324, 975]
+am 'm pm I #:## ##:## 
+[249, 31, 567, 945, 657, 403]
+former who senior named whose current 
+[250, 30, 764, 122, 82, 712, 32, 909]
+own their personal your them let they themselves 
+[257, 363, 457, 260, 463, 546, 952, 578]
+lead led leading ##-## scored victory followed largest 
+[258, 870, 963, 244, 512, 570, 588, 916]
+life lives living family career death live families 
+[262, 63, 386, 64, 289, 721, 479, 939]
+past over recent last ago previous earlier Last 
+[265, 462, 908, 862, 23, 75, 189, 50]
+expected likely scheduled expect will could want can 
+[266, 926, 315, 438, 945, 841]
+called calls call asked named brought 
+[271, 441, 594, 747, 104, 932, 720, 707]
+hit shot fell beat off reached rose fall 
+[272, 630, 701, 219, 420, 644, 198]
+area areas region city near town country 
+[276, 724, 338, 557, 267, 428, 578]
+big biggest major large great small largest 
+[277, 269, 484, 751, 654, 725, 960]
+service services customers network access employees users 
+[279, 525, 156, 777, 206, 98, 310]
+per average #.## cents ##.# #.# ##.## 
+[280, 536, 618, 725, 902, 805, 247, 614]
+members member leaders employees officers friends officials leader 
+[282, 401, 99, 296, 55, 61]
+early late before until after when 
+[287, 708, 453, 886, 229, 414, 823, 100]
+& Group Company International group Inc. firm company 
+[294, 99, 86, 101, 865, 13, 55, 334]
+without before no any despite not after later 
+[295, 718, 969, 376, 435, 175, 924, 983]
+sales revenue sale growth prices market sold sell 
+[299, 110, 425, 194, 56, 323]
+##th second fourth third first final 
+[300, 791, 497, 762, 767, 355, 928, 882]
+New_York London Washington Florida California City UK British 
+[301, 663, 202, 377, 750, 546]
+won winning win lost finished victory 
+[302, 418, 615, 968, 160, 912, 491, 786]
+financial economic investment debt business credit economy investors 
+[305, 167, 431, 84, 61, 232]
+When If So But when As 
+[306, 535, 777, 559, 946, 672]
+share shares cents stock earnings compared 
+[308, 341, 319, 2, 867, 654, 866, 798]
+free open available for starting access closed opening 
+[316, 361, 682, 530, 192, 185, 55, 169]
+With After Now While For There after And 
+[318, 597, 684, 434, 800, 178, 586, 898]
+line front product field range end outside inside 
+[320, 906, 769, 111, 355, 219]
+County county district state City city 
+[325, 575, 509, 979, 929]
+power energy control gas force 
+[328, 45, 89, 534, 161, 39]
+least one only nearly five more 
+[330, 619, 95, 352, 526, 69, 474, 49]
+forward ahead back future together into behind out 
+[332, 12, 84, 530, 70, 305, 499, 169]
+At at But While In When However And 
+[333, 505, 145, 61, 95, 99]
+again once then when back before 
+[335, 923, 11, 28, 44, 56]
+full complete the this its first 
+[339, 727, 916, 290, 910, 272, 68, 219]
+community residents families local organization area people city 
+[340, 846, 887, 955, 582, 383]
+announced decided agreed signed released plans 
+[342, 576, 850, 745, 721, 512, 750, 479]
+record history track straight previous career finished earlier 
+[344, 288, 854, 885, 404, 662, 883]
+court case trial legal law charges cases 
+[346, 469, 50, 736, 410, 899, 940, 627]
+able trying can allowed enough ability tried try 
+[348, 446, 998, 714, 445, 614]
+president President executive chief director leader 
+[349, 566, 584, 980, 956, 642, 842, 354]
+meeting conference meet talks committee vote talk deal 
+[350, 820, 872, 91, 395, 238, 986, 151]
+keep stay remain get continue put remains still 
+[351, 394, 365, 356, 782, 709]
+March April June May February October 
+[357, 455, 881, 376, 984, 615]
+development project projects growth construction investment 
+[358, 268, 996, 958, 930, 637, 111, 195]
+University State School college student study state school 
+[362, 944, 631, 731, 840, 473, 423]
+office department election post agency building Department 
+[364, 143, 66, 106, 78, 617, 759, 389]
+among including other most some Some included include 
+[366, 661, 503, 376, 686, 90]
+increase increased higher growth lower percent 
+[367, 563, 922, 409, 523, 79, 959]
+China India Japan United_States countries U.S. Pakistan 
+[368, 689, 740, 879, 524, 602]
+John David Michael James Mr. Mr 
+[369, 88, 139, 83, 540, 327, 155]
+whether if how what why might even 
+[370, 543, 422, 667, 378, 435]
+cost costs price value pay prices 
+[371, 775, 937, 188, 467, 492]
+security safety forces police military health 
+[374, 445, 714, 674, 419, 348, 998]
+head director chief manager coach president executive 
+[382, 192, 847, 228, 346, 50, 316, 70]
+To For Do You able can With In 
+[384, 684, 454, 650, 484, 269, 921, 845]
+products product technology markets customers services systems software 
+[385, 541, 124, 817, 188, 635, 942]
+car house home drive police road homes 
+[387, 808, 993, 127, 230, 627, 267, 706]
+hard difficult easy good really try great bad 
+[388, 230, 292, 347, 890, 838, 153, 891]
+always really never something everyone everything think pretty 
+[390, 437, 641, 68, 971, 270, 251, 852]
+women men woman people Americans children man mother 
+[391, 897, 187, 108, 406, 63, 69, 262]
+across throughout around through along over into past 
+[392, 666, 647, 676, 718, 671, 789, 877]
+tax income budget property revenue bill spending land 
+[393, 560, 979, 844, 877, 575, 481]
+water food gas air land energy oil 
+[396, 562, 808, 822, 127, 993, 387]
+important key difficult significant good easy hard 
+[398, 866, 341, 171, 420, 12]
+close closed open between near at 
+[400, 893, 45, 7, 73, 470, 54, 80]
+One Two one The A What two three 
+[402, 846, 408, 489, 651, 383, 887, 583]
+decision decided move statement policy plans agreed wanted 
+[407, 520, 172, 94, 239, 301]
+played playing play game games won 
+[411, 819, 16, 872, 109, 106, 120, 19]
+become became be remain make most being are 
+[412, 597, 660, 132, 184, 586, 898, 139]
+side front hand way both outside inside how 
+[415, 946, 203, 475, 896, 440]
+results earnings quarter performance profit data 
+[417, 377, 658, 546, 203, 202]
+loss lost net victory quarter win 
+[424, 696, 977, 517, 349, 655, 624, 94]
+event events tournament race meeting weekend match game 
+[430, 886, 413, 954, 796, 268]
+National International national Association World State 
+[432, 803, 463, 797, 283, 658, 182, 123]
+goal goals scored effort point net points #-# 
+[436, 245, 255, 116, 77, 212]
+weeks months days week years month 
+[439, 375, 222, 161, 134, 595]
+eight seven six five four nine 
+[442, 863, 65, 791, 928, 904, 403, 702]
+New England new London UK Australia current latest 
+[444, 365, 394, 356, 766, 351]
+July June April May August March 
+[447, 450, 631, 917, 121, 541]
+party political election Republican government house 
+[451, 507, 957, 255, 242, 436]
+minutes hours hour days half weeks 
+[456, 569, 272, 434, 504, 935, 630, 701]
+center Center area field site space areas region 
+[458, 542, 600, 793, 801, 601]
+issue issues problem matter question problems 
+[466, 134, 80, 745, 375, 54]
+series four three straight seven two 
+[471, 216, 125, 256, 421, 152, 297, 841]
+coming come going came getting go went brought 
+[472, 273, 455, 241, 763, 921]
+process system project program efforts systems 
+[476, 674, 998, 357, 302, 160, 445]
+management manager executive development financial business director 
+[477, 556, 961, 513, 467, 79, 864, 959]
+Iraq war Iran Bush military U.S. Israel Pakistan 
+[486, 55, 952, 135, 386, 64, 99, 361]
+following after followed during recent last before After 
+[490, 568, 413, 754, 886, 802, 157, 796]
+international global national foreign International European world World 
+[494, 513, 804, 824, 837, 917, 121]
+Obama Bush administration Senate Congress Republican government 
+[495, 785, 95, 284, 820, 408]
+return leave back start stay move 
+[496, 681, 849, 570, 700, 377, 826, 188]
+killed died arrested death attack lost charged police 
+[498, 780, 395, 836, 53, 101]
+further additional continue continued also any 
+[501, 103, 584, 216, 747]
+face against meet come beat 
+[506, 13, 311, 33, 459, 151, 58, 92]
+yet not already but though still do did 
+[510, 967, 482, 573, 742, 193]
+received receive given gave sent got 
+[511, 525, 146, 90, 366, 934, 279]
+rate average % percent increase levels per 
+[515, 945, 14, 266, 233, 136, 112, 232]
+known named as called used such well As 
+[516, 947, 380, 331, 967, 868, 851]
+offer offers provide give receive provided provides 
+[519, 830, 703, 592, 347, 663, 608, 346]
+experience success opportunity position something winning chance able 
+[521, 945, 515]
+name named known 
+[522, 648, 14, 101, 75, 549, 112, 232]
+possible potential as any could sure well As 
+[529, 843, 686, 366, 378, 707, 503, 502]
+cut break lower increase pay fall higher low 
+[537, 631, 797, 763, 517, 450, 642]
+campaign election effort efforts race political vote 
+[538, 303, 722, 880, 739, 688]
+media news TV Internet video News 
+[539, 199, 604, 757, 336, 130]
+needs need needed wants must should 
+[544, 188, 483, 541]
+fire police Police house 
+[547, 298, 814, 520, 94, 419, 690]
+player players league playing game coach club 
+[548, 443, 994, 836, 628, 284]
+began started begin continued ended start 
+[550, 888, 829, 303, 243, 692, 177, 159]
+story tell book news report film know say 
+[552, 564, 611, 508, 701, 778, 409, 259]
+North South West America region Europe United_States American 
+[554, 725, 944, 280, 632, 902]
+staff employees department members workers officers 
+[555, 336, 199, 382, 604, 627, 130, 50]
+order must need To needed try should can 
+[558, 666, 648, 511, 240, 392, 718, 896]
+interest income potential rate support tax revenue profit 
+[561, 637, 454, 357, 440, 243, 921, 845]
+research study technology development data report systems software 
+[572, 153, 733, 583, 609, 177]
+thought think probably wanted 'd know 
+[574, 153, 177, 230, 236, 329]
+feel think know really 'm look 
+[581, 247, 781, 776, 840, 489, 892, 618]
+official officials spokesman officer agency statement authorities leaders 
+[589, 94, 172, 693, 441, 463, 239]
+ball game play yards shot scored games 
+[590, 880, 739, 504, 845, 960, 722, 454]
+online Internet video site software users TV technology 
+[591, 267, 230, 905, 626, 276, 127]
+real great really actually kind big good 
+[593, 905, 3, 540, 459, 713, 155, 230]
+fact actually that why though however even really 
+[598, 103, 408, 797, 821, 747]
+action against move effort fight beat 
+[605, 949, 267, 397, 780, 65, 166, 52]
+special certain great different additional new these all 
+[607, 534, 76, 274, 89, 459, 230, 85]
+almost nearly just every only though really so 
+[620, 295, 357, 656, 687, 100, 718, 969]
+production sales development operations demand company revenue sale 
+[621, 920, 256, 4, 216, 638, 142, 263]
+comes takes came is come makes take took 
+[629, 648, 667, 869, 511, 370, 522, 352]
+risk potential value pressure rate cost possible future 
+[633, 315, 349, 833, 192, 584, 926, 855]
+visit call meeting ###-#### For meet calls phone 
+[636, 692, 739, 722, 880, 590, 538, 751]
+music film video TV Internet online media network 
+[639, 131, 388, 155, 755, 136, 307, 78]
+often many always even especially such several some 
+[640, 582, 243, 489, 613]
+release released report statement reports 
+[643, 788, 492, 825, 919, 743]
+care medical health hospital patients education 
+[645, 549, 72, 86, 981, 177]
+clear sure there no serious know 
+[646, 691, 781, 489, 888, 13]
+comment comments spokesman statement tell not 
+[649, 45, 950, 274, 197, 223, 89, 54]
+single one double every another each only two 
+[652, 812, 615, 968, 918, 761, 237]
+capital cash investment debt funds bank money 
+[664, 832, 354, 175, 729, 680, 980, 861]
+trade trading deal market agreement contract talks terms 
+[665, 617, 128, 166, 62, 427]
+These Some They these We All 
+[669, 761, 611, 564, 552]
+Bank bank West South North 
+[670, 709, 782, 606, 596, 766]
+November October February January December August 
+[675, 762, 767, 508, 259, 409]
+Texas Florida California America American United_States 
+[677, 284, 350, 443, 994, 548]
+stop start keep started begin began 
+[678, 394, 365, 351, 444, 212, 356]
+annual April June March July month May 
+[683, 480, 608, 862, 189, 153, 159]
+hope believe chance expect want think say 
+[685, 298, 94, 723, 68, 890, 547, 514]
+fans players game football people everyone player teams 
+[694, 475, 667, 989, 900, 384, 415, 422]
+quality performance value improve overall products results price 
+[697, 780, 53, 593, 143, 118, 498, 366]
+addition additional also fact including while further increase 
+[698, 278, 54, 307, 80, 134]
+couple few two several three four 
+[705, 735, 76, 132, 635, 925, 743, 230]
+course training just way road practice education really 
+[710, 372, 632, 725, 765, 491]
+jobs job workers employees businesses economy 
+[719, 856, 71, 62, 105, 553, 126]
+Our My our We This His my 
+[726, 426, 408, 65, 366, 337, 895, 871]
+changes change move new increase things moved step 
+[728, 4, 638, 50, 621, 129, 10, 986]
+means is makes can comes 're was remains 
+[730, 759, 389, 851, 947, 143]
+includes included include provides offers including 
+[732, 409, 904, 778, 79, 508]
+Canada United_States Australia Europe U.S. America 
+[734, 143, 485, 668, 66, 759]
+related including due involved other included 
+[737, 195, 317, 930, 699, 996]
+class school students student schools School 
+[744, 523, 111, 409, 701, 630]
+states countries state United_States region areas 
+[746, 177, 189, 267, 805, 388, 888, 153]
+love know want great friends always tell think 
+[748, 322, 142, 238, 634, 331, 452, 263]
+hold held take put bring give taking took 
+[749, 760, 408, 634, 216, 91, 895, 871]
+turn turned move bring come get moved step 
+[752, 860, 973, 879, 689, 740, 368]
+Smith Johnson Brown James David Michael John 
+[753, 983, 924, 969, 422, 378]
+buy sell sold sale price pay 
+[758, 202, 546, 977, 663, 301]
+title win victory tournament winning won 
+[768, 990, 858, 592, 600, 601, 372, 625]
+situation crisis conditions position problem problems job role 
+[772, 570, 641, 681, 496, 258, 831, 852]
+body death woman died killed life son mother 
+[773, 673, 347, 838, 86, 292, 890, 622]
+nothing anything something everything no never everyone No 
+[774, 966, 99, 505, 88, 333, 55, 334]
+soon quickly before once if again after later 
+[779, 275, 324, 975, 248, 252, 399]
+St. pm #:## ##:## am Saturday 7 
+[783, 852, 831, 913, 244, 787]
+wife mother son father family parents 
+[790, 89, 756, 229, 373, 903, 45, 76]
+non only groups group less rather one just 
+[792, 970, 954, 956, 423, 429]
+Council Board Association committee Department board 
+[794, 789, 704, 443, 548, 449, 647, 345]
+spent spending worked started began done budget working 
+[795, 270, 852, 787, 809, 831]
+child children mother parents kids son 
+[810, 378, 967, 924, 237, 34, 510, 380]
+paid pay receive sold money $ received provide 
+[811, 857, 634, 380, 109, 770, 841, 216]
+create build bring provide make allow brought come 
+[815, 811, 857, 634, 380, 109, 770, 473]
+form create build bring provide make allow building 
+[816, 648, 610, 726, 667, 370, 522, 352]
+impact potential result changes value cost possible future 
+[818, 976, 571, 347, 890, 43, 673, 773]
+someone anyone person something everyone you anything nothing 
+[827, 656, 718, 896, 946, 302, 295]
+operating operations revenue profit earnings financial sales 
+[828, 724, 562, 338, 276, 213, 578]
+main biggest key major big top largest 
+[834, 186, 395, 625, 876, 668, 871, 610]
+focus part continue role whole involved step result 
+[835, 541, 935, 898, 825, 942, 124, 586]
+room house space inside hospital homes home outside 
+[839, 972, 569, 996, 635, 456, 423, 195]
+Park Road Center School road center Department school 
+[848, 125, 314, 346, 189, 265, 471]
+ready going 'll able want expected coming 
+[853, 884, 434, 850, 102, 589, 318, 342]
+base ground field track team ball line record 
+[859, 876, 11, 76, 95, 52, 230, 28]
+rest whole the just back all really this 
+[874, 662, 826, 849, 378, 543]
+charge charges charged arrested pay costs 
+[875, 908, 782, 606, 356, 612, 265, 275]
+date scheduled February January May September expected pm 
+[878, 661, 376, 557, 465, 366]
+growing increased growth large strong increase 
+[889, 415, 946, 203, 475, 896, 440]
+test results earnings quarter performance profit data 
+[901, 817, 693, 589, 91, 152, 209, 463]
+pass drive yards ball get go run scored 
+[914]
+drug 
+[915, 288, 892, 662, 188, 243, 883, 854]
+investigation case authorities charges police report cases trial 
+[931, 572, 493, 347, 905, 230, 153, 733]
+idea thought thing something actually really think probably 
+[933, 540, 493, 96, 953, 931, 337, 347]
+reason why thing because cause idea things something 
+[936, 977, 514, 424, 624, 94]
+competition tournament teams event match game 
+[941, 949, 306, 734, 66, 559, 166, 52]
+common certain share related other stock these all 
+[943]
+stage 
+[948, 547, 298, 685]
+star player players fans 
+[962, 955, 158, 677, 749, 871, 329, 177]
+sign signed see stop turn step look know 
+[964, 940, 92, 771, 469, 75]
+failed tried did helped trying could 
+[965, 932, 634, 91, 359, 584, 841, 216]
+reach reached bring get find meet brought come 
+[974, 492, 788, 643]
+insurance health medical care 
+[982, 604, 336, 199, 736, 770]
+required needed must need allowed allow 
+[987]
+black 
+[988, 894, 686, 502, 503, 119]
+below above lower low higher down 
+[991, 584, 349]
+address meet meeting 
+[992, 801, 542, 842, 601, 438, 458]
+questions question issues talk problems asked issue 
+[995, 158, 654, 329, 480, 153]
+view see access look believe think 
+[997, 468, 510, 888, 653, 162]
+heard seen received tell saw told 
+[999, 841, 438, 661, 634, 256, 216, 238]
+raised brought asked increased bring came come put 
