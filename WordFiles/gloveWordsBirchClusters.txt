@@ -1,6 +1,4 @@
 
- 
- 
  ~DIMENSION~ database 360 WITH COSINE
 he from after when him before then later until left took came following again went once given taken received return taking gave himself sent soon returned brought leave followed 
 " '' `` story ! love ` 
@@ -144,3 +142,882 @@ minister prime
 india indian 
 % population 
 killed death died dead 
+
+ 
+ 
+ ~DIMENSION~ 150
+center development research field project study space mission 
+foreign bank capital financial investment fund banks 
+area west east central region southern northern western areas province middle border eastern 
+health education social hospital medical care 
+into under through same along within different across together form similar common example created throughout established 
+team season league club football coach division teams sports 
+from new york given received gave sent 
+company business companies industry food products sold buy 
+city town street site road river park village miles located 
+iraq al iraqi afghanistan 
+most made make became become making often role action involved popular considered especially makes comes attention 
+are all other people some them many like such including those these several number among few others include list included thousands various 
+security defense nato 
+released album release band song 
+after when time during before then end later early until left came following late began again went start return started period soon fall returned ended brought leave followed 
+, . of and a for on with as an its one also while well both part another long each small every large full cut short 
+major main important largest key biggest 
+against led lost lead leading face loss no. beat 
+world international global asia asian 
+work union working workers worked works 
+show series results production test appeared performance showed stage shows 
+history record career century art 
+who old children young age father son wife mother child 
+told news according report reported press media reports reporters interview associated 
+in at where between home house place held near point outside reached hold room 
+i we n't you do ? very 're think me want ... 've 'm really something things always 'll ca thing let am kind nothing feel 
+up out down back off took right put close away side once move taken moved behind taking front position ahead hand turned turn toward forward 
+country power system control nation poor 
+2008 2006 2007 2010 2000 2009 2004 2005 2001 2003 2002 2011 1998 1996 2012 1999 1994 1997 
+support added due further despite change current possible interest strong term future continue result continued pressure currently present remain remains 
+( ) : ; _ / 
+election campaign democratic elections republican presidential 
+points index 
+said says saying statement plan decision announced asked plans call wanted decided calls 
+was by be has have were they had been being already having recently 
+program summer course training class annual competition 
+service free services provide available offer 
+that is it but not this which there only so what because now did still even much here how say however too never know far today although whether though yet ever believe why thought fact probably question 
+official office department spokesman agency ministry 
+'s his their our my own your whose ’s personal 
+women men gold 
+year last years since week month times days months past earlier ago recent weeks hours previous spent latest 
+school university college students schools 
+president chief executive chairman vice officer 
+oil energy gas 
+game play games played players player playing 
+final cup round match title championship 
+- ' -- 
+french france republic italy 
+peace process efforts aid effort 
+war civil fighting fight battle 
+information technology network internet data computer 
+church st. 
+market prices price investors markets analysts 
+countries european nations europe eu 
+john david michael mark james robert paul 
+first second third hit single fourth 
+race tour event events 
+group based groups organization society independent movement islamic 
+called known name great story named star love original described 
+high level higher low lower 
+national local community association regional 
+more about than over around least half less nearly almost 
+" '' `` ! ` 
+% population 
+attack attacks violence 
+nuclear iran weapons 
+drug anti 
+british london england britain english 
+film music video 
+family life live living families lives 
+killed death died dead 
+members council member committee board commission 
+bill vote congress parliament senate majority 
+issue issues problems crisis problem situation 
+minutes shot goal scored 
+talks deal agreement agreed signed contract 
+white black red green 
+open closed opened opening 
+government state public law federal administration policy private act legal 
+police officials authorities charges accused arrested prison 
+economic economy growth increase demand growing 
+de 
+meeting conference visit meet met 
+china chinese taiwan kong hong beijing 
+former top special senior post served staff 
+two three four five six seven eight nine 
+district county 
+total per 100 average 50 40 
+found case trial cases evidence investigation 
+$ million billion dollars 
+japan japanese 
+he she her him man himself woman person 
+us u.s. united states american americans 
+run line running runs 
+percent rose sales fell quarter 
+&amp; inc. 
+russia russian 
+party political leader leaders opposition parties 
+water fire land ground light 
+air station base airport 
+island sea coast 
+india pakistan indian 
+money pay tax cost budget 
+just get way good going go see best come little big got better lot seen real look job done coming saw looking getting doing bad 
+minister prime 
+book published wrote written 
+10 20 15 30 11 12 18 25 14 13 16 17 24 19 22 21 
+or no any used use without using instead rather means either 
+– born 
+rights human 
+will would if can could may next should does expected must might likely 
+dollar yen 
+u.n. un 
+trade exchange trading 
+1 2 3 4 5 6 7 8 9 
+director management manager 
+to take set help need give order enough keep trying find hard able clear hope stop try failed allowed needed bring allow helped tried 
+rate rates 
+africa african 
+day tuesday wednesday monday thursday friday sunday saturday night morning 
+texas florida 
+daily newspaper 
+bush washington clinton george obama 
+king ii 
+television radio tv 
+court justice judge 
+won win victory winning 
+building built construction 
+australia australian 
+operations operation 
+israel israeli palestinian 
+general secretary 
+germany german 
+march june july april september january december october november august february 
+san california los angeles 
+stock shares share stocks 
+head car body 
+relations cooperation 
+military army forces force troops soldiers 
+south north korea 
+america canada mexico 
+
+ 
+ 
+ ~DIMENSION~ 75
+first second third best record hit career single ever fourth tour test performance class stage 
+foreign trade peace talks relations cooperation 
+health education hospital medical care poor 
+new york street church london st. 
+work film music working art worked works 
+french france germany german italy 
+san california texas los angeles florida 
+city area capital near small large outside land areas airport 
+march june july april september january december october november august 2008 2006 february 2007 2010 2000 2009 2004 2005 2001 2003 2002 2011 1998 1996 2012 1999 1994 1997 
+are were they all people some them many those these few others often workers thousands 
+called known name named king ii described 
+high prices level higher price low lower 
+against support move further despite strong continue efforts continued pressure aid failed helped effort 
+company business companies industry food products sold buy 
+national members union member community association organization republic society 
+1 10 2 3 20 15 30 4 11 12 5 18 6 25 7 8 14 13 16 17 9 24 19 22 21 
+will would could may expected might due possible results likely result fall 
+bank financial investment fund banks 
+president chief director executive chairman vice officer 
+, . of and in a for that is with as at from an this which one also about over time only while where made between well both part another long around same each place past every close point within making given taken full taking together short form course makes room comes 
+released album release band song 
+led lost lead leading loss no. beat 
+attack attacks violence drug anti 
+change current role process interest term future action involved present 
+police trial charges accused arrested prison 
+war civil fighting fight battle 
+development plan announced plans production project 
+former top times special senior post served staff 
+final cup round match title championship 
+by under based power system program control network independent created established 
+received call gave sent calls attention 
+economic economy growth increase demand growing 
+security general office department administration defense secretary policy 
+central region southern northern western province border eastern 
+summer star sports annual competition 
+used use different using similar common example 
+money cut pay tax cost budget 
+south north west east island miles coast 
+set held open closed opened hold opening 
+service free services provide available offer 
+i we get very good 're think me got better 've 'm lot really something things job always done thing getting am doing kind nothing feel 
+country america largest nation mexico biggest 
+up out down back off took right came line put went away side once behind face front position ground saw hand brought turned turn 
+political issue issues social problems crisis problem situation 
+man head car shot body woman person 
+after when before then home later until left began again return started moved soon returned leave 
+government state officials public local federal authorities private 
+on show series story appeared showed original shows 
+points minutes goal scored 
+us u.s. united states american washington americans 
+what did how say never know whether decision asked believe why wanted thought decided probably question 
+'' `` ? ... ! ` 
+china chinese taiwan kong hong beijing 
+british england australia britain canada australian 
+told news press media reporters interview associated 
+group groups movement islamic 
+their our my own your personal 
+election vote elections parliament majority 
+into through along across middle toward throughout 
+world international global asia asian 
+town road river park village located 
+major main key regional 
+nuclear iran weapons 
+n't you do want 'll ca let 
+field division training base operations operation 
+was be has have had been being already having recently 
+japan korea japanese 
+race event events 
+dollar yen 
+india pakistan indian 
+percent rose sales fell quarter 
+israel israeli palestinian 
+military army forces force troops soldiers 
+$ million billion dollars 
+total per 100 average 50 40 
+last during week end early month following late earlier recent period reached previous ended followed latest 
+law rights human act legal justice 
+who old children young age child 
+two three four five six seven eight nine 
+to make take help need give order enough keep trying find hard able stop try allowed needed bring allow tried 
+game season play games played players player playing 
+white black red green 
+found case cases evidence investigation 
+district county 
+iraq al iraqi afghanistan 
+stock shares share exchange trading stocks 
+next here going go see come today start look ahead coming hope looking forward 
+oil energy gas 
+according official report reported agency ministry reports 
+information technology internet data computer video 
+( ) : ; / 
+meeting conference visit meet met 
+nato mission 
+john george david michael mark james robert paul 
+air water fire light sea 
+de 
+index 
+family life live living families lives 
+center research study space 
+women men gold 
+book published wrote written 
+deal agreement agreed signed contract 
+he his she her him himself 
+- ' -- _ 
+it but there so because now just still even way much however too little far although though seen yet clear fact 
+house bill congress senate 
+– born 
+party leader leaders opposition parties 
+&amp; inc. 
+television radio tv 
+countries european nations europe eu 
+run running runs 
+building station site built construction 
+said says added saying statement spokesman 
+not or if no can any should does without must instead rather means either 
+council committee board commission 
+other such including several number among include list included various 
+school university college students schools 
+campaign democratic republican presidential 
+day tuesday wednesday monday thursday friday sunday saturday night morning 
+team league club football coach teams 
+% population 
+won win victory winning 
+u.n. un 
+history century english 
+rate rates 
+market investors markets analysts 
+minister prime 
+daily newspaper 
+bush clinton obama 
+africa african 
+court judge 
+management manager 
+year years since days months ago weeks hours spent 
+" like great big real love bad 
+killed death died dead 
+more than least half less nearly almost 
+'s its whose ’s 
+father son wife mother 
+russia russian 
+most became become important popular considered especially 
+currently remain remains 
+
+ 
+ 
+ ~DIMENSION~ 37
+on may between end next until place held open start ahead summer reached coming fall 
+trade peace talks relations cooperation 
+white head black red body green 
+south north west east central region southern northern western province border eastern 
+president chief director secretary senior executive chairman vice officer 
+run hit minutes shot running no. runs 
+his their her our my own your personal 
+one more about than only much each every far less almost person 
+to will would make should take go help must give move return keep trying continue soon hold hope stop try decided let allowed leave bring allow tried 
+recent due further despite results result test continued latest 
+what like here how say good see too come little know big today better real something things look always believe why looking am kind nothing bad attention 
+africa african asia asian 
+coach star manager sports 
+world series final round match title tour gold opening stage competition 
+us u.s. united states american washington americans 
+china japan korea taiwan kong hong beijing 
+added led point lead behind leading goal mark failed helped forward 
+plan announced plans pay offer buy 
+who old women man men young woman 
+france russia germany britain republic italy 
+points scored beat 
+death hospital child prison 
+, . and in with as by from has had also made both same already once received together gave sent recently brought turned 
+be not if no can could any does without whether need might possible enough find able either needed 
+team league club football division teams 
+drug involved anti cases accused 
+after last during before week later early month days months following late earlier weeks previous ended followed 
+stock prices rose fell shares share price exchange trading stocks 
+house bush clinton bill george obama 
+law rights human act civil legal justice 
+of for which new time under part long set free within making order full special short course present 
+at york street london closed opened st. 
+major local capital main key regional 
+business industry technology management internet computer 
+group members member groups 
+people family life children living families lives 
+said told says saying statement spokesman press decision reporters interview 
+al islamic 
+where around center line side fire car outside field front middle room toward 
+state federal department administration defense policy 
+a 's an its first second another third whose single fourth original 
+against war campaign action fight battle 
+school university college students schools 
+program development research project study space 
+story book published wrote written 
+game season play games played players player playing 
+increase tax cost budget annual 
+when then back home left took came began again went started moved saw returned 
+government foreign official agency ministry 
+city town near station site road park village located airport 
+up out over into while through down off right put close away taking face instead hand turn 
+half lost quarter cut loss 
+expected interest strong likely pressure demand analysts growing 
+community church art works society created established 
+growth rate rates 
+percent per average 
+is power system control change current role process term future position rather means makes comes 
+or such used use using form similar common example 
+money financial investment fund 
+history age century english class 
+i just 're think me got 've 'm lot really done thing getting doing feel 
+security iraq iraqi afghanistan 
+called call calls described associated 
+party political leader leaders opposition movement parties 
+u.n. un nato mission 
+building built construction 
+national international based union association organization independent 
+san california texas los angeles florida 
+health education social medical care 
+country america nation mexico 
+attack attacks violence fighting 
+he she him did never asked having himself wanted 
+television media radio tv network 
+british indian australian 
+according report reported reports showed 
+israel israeli palestinian 
+economic economy global crisis 
+district county 
+march june july april september january december october november august 2008 2006 february 2007 2010 2000 2009 2004 2005 2001 2003 2002 2011 1998 1996 2012 1999 1994 1997 
+military army forces force troops soldiers 
+father son wife mother 
+album band song 
+are other including these several number among include different included various 
+court case trial charges evidence judge investigation 
+council committee board commission 
+countries european nations europe eu 
+minister prime 
+air training base operations operation 
+show film music live appeared shows video 
+dollar yen 
+- -- _ 
+was known became name named king ’s ii 
+( ) ; / de 
+have were they been all some them many being those found few others 
+former general office post served staff 
+democratic congress republican senate presidential 
+company companies sales production products sold 
+1 10 2 3 20 15 30 4 11 12 5 18 6 25 7 8 14 13 16 17 9 24 19 22 21 
+that it but this there so because now still even way very however although though given taken yet hard ever clear thought fact probably 
+won win victory winning 
+election vote elections parliament majority 
+&amp; inc. 
+% population 
+market bank investors markets banks 
+issue issues problems problem situation question 
+most well great become often important seen popular considered especially 
+meeting conference visit meet met 
+two three four five top six seven eight list nine 
+– born 
+work working job worked spent 
+support efforts aid effort 
+small large water land ground light sea 
+information provide available data 
+police officials authorities arrested 
+island river miles coast 
+best record career performance 
+cup championship 
+deal agreement agreed signed contract 
+high level higher low lower 
+area along across areas throughout 
+day tuesday wednesday monday thursday friday sunday saturday night hours morning 
+workers food thousands poor 
+currently remain remains 
+england australia canada 
+least total 100 nearly 50 40 
+french russian german 
+nuclear iran weapons 
+india pakistan 
+we n't you do get going want 'll ca 
+" '' `` : ' ? ... ! love ` 
+index 
+john david michael james robert paul 
+largest biggest 
+$ million billion dollars 
+public service services private 
+race event events 
+killed died dead 
+released release 
+year years since times past ago period 
+news daily newspaper 
+chinese japanese 
+oil energy gas 
+
+ 
+ 
+ 
+ 
+ 
+ ~DIMENSION~ 56
+first second third final round match results fourth test 
+released album release band song 
+foreign french russian german japanese 
+center field star space sports 
+, . in on at between home here set place held open today closed reached opened opening 
+said told says added saying statement spokesman press reporters interview 
+state law federal act civil legal justice 
+percent rose fell quarter loss 
+trade peace talks relations cooperation 
+health food education hospital medical care poor 
+people women men workers thousands 
+was he had after when she him before then later left took came again went once received having moved gave himself sent saw returned brought turned 
+has year last years since week month days months earlier ago weeks hours recently 
+government officials security official department agency administration defense policy ministry authorities 
+show series film music appeared stage shows video 
+company business companies industry sales production products sold buy 
+high prices level higher price low lower 
+central capital region southern northern western province border eastern regional 
+born father son wife mother 
+iraq al iraqi afghanistan 
+plan decision announced asked return plans call action soon wanted decided leave calls 
+bank money financial investment fund banks 
+from up out into under through down back off right line put close away side full face front middle position instead hand turn toward forward 
+system program development research project study 
+water island land river miles sea coast 
+us u.s. united states american americans 
+who old young age whose class 
+largest biggest annual 
+general office secretary special post served staff officer 
+record career title tour gold performance competition 
+according found report reported reports showed evidence 
+police charges accused arrested prison 
+house street church st. room 
+" '' `` ? ... ! love am ` 
+i we n't you do 're think me want 've 'm lot really something things 'll ca thing let feel 
+world country international america nation global 
+( ) : ; – / 
+members council member committee board commission 
+of a for is an this which one time only made part another long same best point within making given single short ever course makes original comes 
+known became name become named king popular ii 
+major led lead main behind leading key 
+it like just get way much very good going go see come little big got better real look job always done coming looking getting doing kind nothing bad attention 
+issue issues problems crisis problem situation 
+where around area small along large across outside areas throughout 
+france russia germany republic italy 
+points minutes goal scored 
+city town near station site road park village located airport 
+and with as also most while well both great others often important taken seen role taking involved considered especially 
+nuclear iran weapons 
+during end early until following late began lost started period summer previous fall ended followed 
+countries european union nations europe eu 
+recent despite strong pressure demand analysts growing latest 
+are have were all other some many such those these several few different various 
+support efforts aid effort 
+march june july april september january december october november august 2008 2006 february 2007 2010 2000 2009 2004 2005 2001 2003 2002 2011 1998 1996 2012 1999 1994 1997 
+history century english art works 
+team league club football coach teams 
+or if no any does without whether rather means either question 
+china chinese taiwan kong hong beijing 
+two three four five six each every seven eight together nine 
+not they them what did how say never know believe why thought probably 
+political rights human social 
+their our my own your personal 
+will next expected start ahead hold 
+market investors markets stocks 
+more about than over times least past half less nearly almost 
+man body woman person 
+against attack attacks violence drug anti 
+new york washington london 
+to would can could make should take must need might give order move allowed allow 
+group groups movement islamic 
+$ million billion dollars 
+information technology internet data computer 
+power air control fire ground light 
+nato mission 
+killed death died dead 
+san california texas los mexico angeles florida 
+1 2 3 4 5 6 7 8 9 no. 
+economic economy growth increase 
+school university college students schools 
+africa african asia asian 
+cut pay tax cost budget 
+used use using form similar common example 
+district county 
+john george david michael mark james robert paul 
+president chief director executive chairman vice 
+- ' -- _ 
+news media daily newspaper 
+meeting leaders conference visit meet met 
+help enough keep trying find hard able hope stop try failed needed bring helped tried 
+family life children live living families child lives 
+day tuesday wednesday monday thursday friday sunday saturday night morning 
+% population 
+former top head senior division 
+'s his its her ’s 
+index 
+may due further change current process possible interest term future likely continue result continued present 
+&amp; inc. 
+work working worked spent 
+stock shares share exchange trading 
+court case trial cases judge investigation 
+public local service services private 
+race event events 
+white black red green 
+national community association organization society established 
+british indian australian 
+television radio tv network 
+cup championship 
+deal agreement agreed signed contract 
+by called based independent created described associated 
+de 
+campaign democratic republican presidential 
+hit car shot 
+game season play games played players player playing 
+south north west east 
+currently remain remains 
+training base operations operation 
+bill congress senate 
+building built construction 
+won win victory winning beat 
+india pakistan 
+story book published wrote written 
+rate rates 
+that be but been there so because now being still even however too far although already though yet clear fact 
+election vote elections parliament majority 
+total per 100 average 50 40 
+party leader opposition parties 
+including number among include list included 
+england australia britain canada 
+10 20 15 30 11 12 18 25 14 13 16 17 24 19 22 21 
+minister prime 
+japan korea 
+oil energy gas 
+free provide available offer 
+military army forces force troops soldiers 
+u.n. un 
+management manager 
+dollar yen 
+war fighting fight battle 
+israel israeli palestinian 
+run running runs 
+bush clinton obama 
+
+ 
+ 
+ ~DIMENSION~ 46
+two year over years three since four five six times days months past half ago seven eight weeks hours nine 
+president general chief director secretary executive chairman vice officer 
+training operations nato operation mission 
+town district county village located 
+against war attack attacks action face violence fighting anti fight battle 
+who old women man men young woman 
+– de born 
+world cup title tour gold championship 
+to will would can make should take help must need give order move return enough keep trying find able soon stop try decided allowed leave needed bring allow tried 
+china japan korea taiwan kong hong beijing 
+former top office head defense special senior post job staff 
+stock prices rose fell shares share price exchange trading stocks 
+points lead minutes ahead goal scored beat forward 
+or used use free using form provide instead available similar common rather example means either offer 
+'s their its our own whose ’s personal 
+, . of and in for on with as by from which new also into only while made between under through well both part long set within making given taken full taking short reached involved present attention 
+security iraq al iraqi afghanistan 
+economic economy growth interest increase global demand analysts growing 
+building station site road park built construction airport 
+countries european union nations europe eu 
+power system air control fire base ground light 
+final round match race results test 
+national international based community association organization society independent 
+trade peace talks relations cooperation 
+health food education social care poor 
+members council member committee board commission body 
+party political leader leaders opposition movement parties 
+up out down back off left right line put close hit away side behind shot front hand turn 
+major led main leading key failed helped 
+game season play games played players player playing 
+division management manager 
+where city home near car outside room 
+government foreign official department agency administration policy ministry 
+said told says saying statement spokesman decision reporters 
+best career star performance sports competition 
+water island land river miles sea coast 
+was known became name named king served act ii created established 
+percent total per 100 average 50 40 
+program development research project study space 
+company business companies industry products sold buy 
+united states country america nation mexico 
+1 10 2 3 20 15 30 4 11 12 5 18 6 25 7 8 14 13 16 17 9 24 no. 19 22 21 
+is does great important change role process term future position hope makes comes 
+officials workers authorities thousands 
+york washington center church st. 
+house bill congress george senate 
+film music art works video 
+that it but this there time so because now still even here however same far today although already though yet ever clear fact 
+region southern northern western province border eastern 
+has were had been being added once received gave recently brought turned 
+i we 're think me 've 'm lot really something things done thing am doing 
+event annual events 
+area small along large across areas middle toward throughout 
+killed death died dead 
+support efforts aid effort 
+public local service services private 
+sales quarter production 
+" '' `` : ' ? ... ! love ` 
+us u.s. american americans 
+street london closed opened 
+election vote elections parliament majority 
+first second third record lost fourth previous loss 
+level current currently remain remains 
+nuclear iran weapons 
+are have they all other some them many such those these few others different together 
+family life children live living families child lives 
+during end early following late began start started period summer fall ended followed 
+he his she her him having himself 
+like just get way very good going see too come little big got better real hard look always coming looking getting kind bad feel 
+state federal 
+team league club football coach teams 
+school university college students schools 
+show series appeared showed shows 
+last week month earlier recent latest 
+next expected plan announced plans meet hold 
+africa african asia asian 
+law rights human civil legal justice 
+issue issues problems crisis problem situation question 
+news press media daily newspaper interview 
+deal agreement agreed signed contract 
+military army forces force troops soldiers 
+israel israeli palestinian 
+father son wife mother 
+france russia germany republic italy 
+a an one another each every single person original 
+may march june july april september january december october november august 2008 2006 february 2007 2010 2000 2009 2004 2005 2001 2003 2002 2011 1998 1996 2012 1999 1994 1997 
+- -- _ 
+television radio tv network 
+money financial investment fund 
+san california texas los angeles florida 
+bank central capital regional 
+% population 
+police charges accused arrested prison 
+information technology internet data computer 
+more about people than much around least less nearly almost 
+white black red green 
+won win victory winning 
+&amp; inc. 
+including several number among include list included various 
+what did how say never know asked believe why wanted thought nothing probably 
+cut pay tax cost budget 
+british indian australian 
+at place held open point field course opening stage 
+campaign democratic republican presidential 
+largest biggest 
+history age century english class 
+court case trial judge investigation 
+album band song 
+work working worked spent 
+french russian german 
+john david michael mark james robert paul 
+u.n. un 
+( ) ; / 
+group groups islamic 
+found drug cases evidence 
+day tuesday wednesday monday thursday friday sunday saturday night morning 
+after when before then later until took came again went moved sent saw returned 
+high higher low lower 
+market investors markets banks 
+dollar yen 
+my your 
+india pakistan 
+england australia britain canada 
+minister prime 
+meeting conference visit met 
+n't you do go want 'll ca let 
+due further despite strong continue result continued pressure 
+story book published wrote written 
+most become often seen popular considered especially 
+oil energy gas 
+called call calls described associated 
+according report reported reports 
+be not if no could any without whether might possible likely 
+chinese japanese 
+bush clinton obama 
+run running runs 
+index 
+released release 
+hospital medical 
+rate rates 
+$ million billion dollars 
+south north west east 
+
+ 
+ 
+ ~DIMENSION~ 10
+to that be not will would if no can could because any make our should take say does help without must whether need better give change process yet possible enough keep future able problems believe problem done try fact rather means needed bring allow question 
+most war both become america important role form considered especially common movement growing 
+became de born named ii 
+companies increase cost products data 
+public local service health services private medical care 
+world best series tour test event performance stage events competition 
+case human groups drug involved evidence 
+up down expected close cut ahead 
+into around water car base ground light room 
+number workers cases families 
+team league club football teams 
+national association division sports 
+military iraq israel forces troops israeli palestinian iraqi weapons afghanistan nato 
+days night minutes hours shot morning 
+% population 
+who family life children young whose black living person child lives 
+in was by during since between later early held following late appeared returned battle followed 
+of and from which under through part within act currently present established 
+its united states major union african canada mexico beijing 
+( ) ; may until / began started summer 
+police officials army authorities 
+" show name film music story book live shows 
+including several based include received list included study various 
+security force u.n. un mission 
+largest exchange kong hong biggest banks 
+bank oil capital closed gas 
+program special project training network space 
+system information food provide available internet computer 
+community education social society 
+money pay job personal offer buy 
+he his she her old man father son himself king wife woman mother 
+first second third half record lost hit fourth gold loss no. 
+state school university center college california texas florida 
+nuclear iran agreement eu cooperation 
+market investors markets analysts 
+is it '' `` this so what now like even way much very how good right see too come never little big might ... real find hard look always why thought looking makes doing kind comes nothing probably bad 
+general office department board staff officer 
+are have they their or more about there all out than some them those few less almost 
+sales growth rate share higher price low lower rates 
+at where home place run open line point side field red front course running runs green 
+against lead behind race goal 
+campaign decision move action meet position hope fight decided failed forward 
+russian pakistan anti islamic 
+washington al head visit sent met 
+china economic trade economy taiwan global crisis demand 
+won win victory winning scored beat 
+york john george david star michael mark james robert paul 
+, . a - as an has but -- over _ while still long however past far although already though once given despite seen taking face likely result continued similar hand americans brought turn remains attention 
+news official statement press media newspaper interview associated 
+city area along building island road land river built sea 
+other many among women often 
+we n't you do get ? going go 're think want know your 've lot really something things 'll ca thing getting let feel 
+two three four five six men least seven total eight 100 nearly 50 nine 40 
+federal tax budget 
+chinese recent japanese latest 
+called worked wrote described written 
+killed soldiers dead arrested 
+law rights organization legal justice independent 
+country nation strong key middle toward 
+court trial charges accused judge 
+season games final cup round match championship 
+great love 
+european japan asia asian 
+i my me 'm ! am ` 
+rose fell quarter 
+director executive manager 
+operations construction 
+small large across areas throughout 
+year due period results previous fall 
+peace talks 
+us power control deal further continue situation hold pressure remain effort 
+production sold 
+tuesday wednesday monday thursday friday sunday saturday 
+political leaders opposition parties 
+england australia opening 
+high each level class poor 
+government u.s. foreign aid 
+election vote congress elections parliament senate presidential 
+street london moved opened 
+according report agency ministry investigation 
+former member senior 
+countries nations 
+known history century english popular 
+business industry research technology management 
+stock prices shares index dollar trading stocks yen 
+such well these work used use own different working using body example 
+council committee administration commission 
+issue current interest term issues 
+released release published 
+had when then another left times took came ago went gave saw turned showed spent 
+district county 
+told spokesman reporters 
+death died 
+house white church served 
+march june july april september january december october november august 2008 2006 february 2007 2010 2000 2009 2004 2005 2001 2003 2002 2011 1998 1996 2012 1999 1994 1997 
+air fire site outside operation 
+international development regional 
+television radio tv video 
+played career title 
+'s new added today post recently helped 
+percent billion dollars 
+south north west east central region main southern northern western eastern coast 
+hospital prison 
+on time before day end next set again start ever coming 
+said says saying asked call calls 
+president chief secretary chairman vice 
+town near village miles 
+san park los st. angeles 
+france russia india germany europe korea africa britain republic italy 
+– 
+students schools 
+minister leader prime 
+meeting conference defense 
+after last week month months earlier weeks reached ended 
+party democratic republican 
+art ’s works original created 
+$ million per average 
+him did here put return trying clear soon wanted stop leave tried 
+also group american british french german indian 
+support policy efforts relations 
+attack attacks violence fighting 
+points 
+plan plans agreed 
+located 
+company &amp; inc. 
+game play players player playing 
+years age 
+for with : one ' only made same every free making order having full single together short instead allowed either 
+financial energy investment fund 
+coach 
+bush clinton bill obama 
+reported reports daily 
+just back off got away 
+album band song 
+announced signed 
+annual contract 
+members civil majority 
+were been people being found others taken thousands 
+top led leading australian 
+1 10 2 3 20 15 30 4 11 12 5 18 6 25 7 8 14 13 16 17 9 24 19 22 21 
+province border 
+station airport 
