@@ -8,13 +8,13 @@ in where last since the month week
 6 111 76 108 0 229 147 
 a another this one is 
 7 170 37 48 14 
-" called ... we ! known also 
+    called ... we ! known also 
 8 175 434 53 805 225 52 
-'s ’s his its that he her 
+ s ’s his its that he her 
 9 784 26 47 12 18 71 
 for time . while as when before 
 10 79 2 110 19 61 106 
-- -- old _ anti ' man 
+- -- old _ anti   man 
 11 65 167 97 811 57 300 
 on wednesday tuesday monday friday 
 13 177 171 183 185 
@@ -32,7 +32,7 @@ at where . time near in outside
 23 24 89 274 652 45 1 
 from back came coming out 
 25 137 263 781 66 
-'' `` ` said we ? told 
+           said we ? told 
 27 28 932 16 53 188 154 
 an another this that which one a 
 29 170 37 12 42 48 7 
@@ -42,11 +42,11 @@ are these those many they
 32 158 155 109 39 
 were been those being they 
 35 51 155 134 39 
-not n't but did would do though 
+not n t but did would do though 
 36 70 34 119 54 88 413 
 who he also have once him his 
 38 18 52 33 442 103 26 
-i you 've 'm really 'll n't 
+i you  ve  m really  ll n t 
 41 81 462 472 588 769 70 
 will would should expected could 
 43 54 189 287 94 
@@ -86,7 +86,7 @@ government administration authorities officials federal
 78 466 568 148 347 
 $ million dollars billion pay 
 80 93 230 160 642 
-if not does should n't 
+if not does should n t 
 83 36 260 189 70 
 world ever time global event never even 
 85 661 79 701 770 332 151 
@@ -156,15 +156,15 @@ end ended this year . it same
 156 843 37 62 2 20 215 
 former who named chief senior he also 
 157 38 564 276 598 18 52 
-work working works worked done doing 've 
+work working works worked done doing  ve 
 161 500 850 762 751 914 462 
 home where away back go in outside 
-163 111 420 137 242 6 587 
-party parties democratic opposition election republican elections 
-165 935 590 577 367 742 613 
-house senate congress building white republican 
+163 111 420 137 242 6 587 165
+party parties democratic opposition election republican elections house
+935 590 577 367 742 613 
+senate congress building white republican 
 166 748 601 447 298 742 
-get getting got you n't 'll 
+get getting got you n t  ll 
 169 881 405 81 70 769 
 news reported interview media reports 
 172 293 962 493 687 
@@ -188,7 +188,7 @@ here today come there we coming go
 187 373 326 63 53 781 242 
 very so too really well but 
 191 100 317 588 143 34 
-my your i me our you 've 
+my your i me our you  ve 
 192 392 41 285 162 81 462 
 security forces military officials police troops army 
 194 340 178 148 142 400 330 
@@ -200,7 +200,7 @@ according reported report official reports
 200 293 255 239 687 
 court judge case trial decision cases 
 202 924 305 801 451 846 
-say believe what n't know how 
+say believe what n t know how 
 203 733 102 70 346 197 
 10 15 20 12 14 
 206 404 324 421 657 
@@ -256,7 +256,7 @@ took taking came take taken last went
 247 582 263 190 492 76 388 
 local many other regional several some few 
 250 109 68 910 201 77 306 
-see you what come look 'll n't 
+see you what come look  ll n t 
 253 81 102 326 662 769 70 
 best better good winning well 
 254 439 219 877 143 
@@ -270,7 +270,7 @@ law legal act federal court government state
 264 830 743 347 202 78 92 
 women men woman she young man mother 
 266 301 787 67 461 300 808 
-'re 'm going really think go 
+ re  m going really think go 
 267 472 222 588 269 242 
 power control energy government country gas oil 
 268 424 634 78 123 851 316 
@@ -302,7 +302,7 @@ history ever career first most never even
 299 661 432 58 96 332 151 
 became become as was later also well 
 302 399 19 15 168 52 143 
-want n't do you know 
+want n t do you know 
 303 70 88 81 346 
 march april february june october 
 304 396 617 344 478 
@@ -354,7 +354,7 @@ head chief director body hand executive officer
 362 276 369 719 823 616 941 
 night saturday sunday morning friday 
 364 277 240 766 185 
-big biggest like n't large largest major 
+big biggest like n t large largest major 
 365 882 117 70 426 506 224 
 cup championship match final win title team 
 366 879 550 294 320 698 145 
@@ -512,7 +512,7 @@ interest rates rate investors increase
 560 864 571 755 686 
 behind ahead third second out next 
 561 707 245 126 66 182 
-real just what really n't going it 
+real just what really n t going it 
 567 120 102 588 70 222 20 
 car when outside front killed then before 
 569 61 587 669 256 127 106 
@@ -520,7 +520,7 @@ term means current long likely rather way
 570 889 533 173 647 871 179 
 race event winning won win events world 
 572 770 877 227 320 958 85 
-enough so needed able n't but too 
+enough so needed able n t but too 
 575 100 911 667 70 34 317 
 site near area building built outside where 
 576 355 237 447 675 587 111 
@@ -570,7 +570,7 @@ continue continued will should would
 660 754 43 189 54 
 chairman executive committee vice chief 
 663 616 446 854 276 
-job doing work working better done 're 
+job doing work working better done  re 
 664 914 161 500 439 751 267 
 2000 2001 2002 1998 1996 
 665 778 812 885 918 
@@ -678,7 +678,7 @@ budget plan tax cost billion plans would
 832 394 693 772 160 559 54 
 considered most as be because many more 
 834 96 19 30 113 109 56 
-love you me always really 'll n't 
+love you me always really  ll n t 
 835 81 285 690 588 769 70 
 stop trying going doing keep tried try 
 837 595 222 914 578 977 841 
@@ -696,7 +696,7 @@ turned turn once when then never
 852 890 442 61 127 332 
 fact though because what that although but 
 853 413 113 102 12 376 34 
-ca n't do you know 
+ca n t do you know 
 855 70 88 81 346 
 common example similar such other 
 861 880 793 125 68 
@@ -710,7 +710,7 @@ performance best better well good
 883 254 439 143 219 
 sports football news games tv league club 
 884 535 172 290 816 292 449 
-let want you 'll go n't do 
+let want you  ll go n t do 
 886 303 81 769 242 70 88 
 personal own his your my their 
 894 261 26 392 192 44 
@@ -728,7 +728,7 @@ society social community life organization education political
 908 659 501 214 734 631 209 
 products companies food sales industry company 
 909 337 565 526 459 128 
-am 'm i 're really 
+am  m i  re really 
 913 472 41 267 588 
 sold buy sales company products market prices 
 919 987 526 128 909 211 468 
@@ -788,7 +788,7 @@ poor because bad especially good but so
 992 113 978 858 219 34 100 
 prison trial arrested charges months case court 
 997 801 898 840 265 305 202 
-feel really think 're 'm 
+feel really think  re  m 
 998 588 269 267 472 
 attention much need getting get even than 
 999 181 408 881 169 151 73 
