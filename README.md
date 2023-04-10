@@ -1,3 +1,5 @@
+#Dimensionality Reduction and Optimization of the Glove Words Database using Principal Component Analysis and Birch Clustering
+
 From the video game Semantle to ChatGPT, Natural Language Processing (NLP) systems are used in effective communication between humans and computers. They are necessary for sorting documents, creating a thesaurus, machine translation, and computer interpretations of words. Using an NLP, AIs are then able to continue to predict future words by determining the words with the closest semantic similarity to make a reasonable sounding sentence. GloVe (Global Vectors for Word Representation) is such a system that improves on the commonly used Word2Vec (Mikolov et al.), and in this project I will refine GloVe. 
 Optimizing the bag-of-words model, GloVe uses probability distributions and a co-occurrence matrix to find how relevant words are to each other (Pennington et al). GloVe can also associate words like ‘rapid’ and ‘rapidly’ and ‘ice’ and ‘water.’ Using cosine-distance based vectors, GloVe can create true mathematical equations, such as the following example with defining King, Man, Women, and Queen as three-dimensional vectors.
 King - Man + Woman = Queen
@@ -43,18 +45,5 @@ To fix this, I believe that using a variety of datasets from multicultural liter
 In the future, I would like to expand this research into more specific corpuses, especially through the lens of ChatGPT. Right now, ChatGPT can say something about everything, but it is flawed in more specialized applications. Ask it to solve a complex math problem, and it stops at solving some trivial algebra, for example. With a specialized corpus of language, however, ChatGPT could become more refined. Specifically, I am working on a chemistry-themed database, using elements and different names of compounds as a major part of the training dataset. This allows AIs and chatbots to complete more meaningful discussions and approach the truth, rather than sentences that seem like the truth. My paper also lays out a process for identifying the right number of dimensions for these smaller themed corpuses to retain information.
 English is also not the only language, and I would like to see if more ameliorations can be identified in other languages with less words, such as French. 
 I would also like to address the issue of bias. Currently, I am re-training the dataset using a picture-book based vocabulary, and then predicting more advanced word locations. Then, given this location, I plan to check it with the actual location of the word in the larger dataset and then continue adding in words slowly with consistent human supervision to avoid this.  
-
-	 
- 
-Materials:
-	GloVe Database of 400k words with 300 dimensions (Pennington)
-	Top 10k words used in English Language
-	Jupyter Notebooks as compilers
-Libraries:
-	Scikit Learn for easier implementation of clustering algorithms
-	MatplotLib for Visualization of words
- 
- 
-
 
 
